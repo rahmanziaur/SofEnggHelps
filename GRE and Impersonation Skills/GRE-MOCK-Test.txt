@@ -1,0 +1,175 @@
+GRE Mock Test
+
+Analytical Writing
+
+Task 1: Analyze an Issue
+
+Prompt: "Some people believe that technology has made the world a better place to live. Others argue that technology has caused more problems than it has solved. Discuss your viewpoint, providing reasons and examples to support your argument."
+
+Task 2: Analyze an Argument
+
+Prompt: "The following appeared in a letter to the editor of a local newspaper:
+
+'In the past year, our town’s recycling rate has declined by 15%. At the same time, the number of new residents moving into the town has increased significantly. Clearly, the new residents are less likely to recycle than long-time residents. Therefore, the town should implement a mandatory recycling program for all residents to improve the recycling rate.'
+
+Discuss how well-reasoned you find this argument. Point out any assumptions, flaws, or gaps in the reasoning and suggest ways to improve it."
+
+Verbal Reasoning
+
+Section 1
+
+Text Completion:
+The recent discovery of an ancient burial site has shed light on the region's __________ past, revealing artifacts that suggest a complex society with advanced knowledge of metallurgy and agriculture.
+
+(A) enigmatic
+
+(B) primitive
+
+(C) prosperous
+
+(D) turbulent
+
+(E) obscure
+
+Sentence Equivalence:
+The critic’s review was so __________ that readers were left with no doubt about her disdain for the play.
+
+(A) scathing
+
+(B) impartial
+
+(C) laudatory
+
+(D) trenchant
+
+(E) severe
+
+(F) equivocal
+
+Reading Comprehension:
+Passage: "Many experts believe that the key to improving public health lies in addressing social determinants such as education, housing, and access to nutritious food. However, critics argue that focusing on these factors detracts from efforts to improve healthcare infrastructure and medical technology."
+Question: What is the main point of the passage?
+
+(A) Social determinants are irrelevant to public health.
+
+(B) Healthcare infrastructure is more important than social factors.
+
+(C) Addressing social determinants can significantly improve public health.
+
+(D) Medical technology should take precedence over social issues.
+
+Section 2
+
+Text Completion:
+The artist’s work is often described as __________, combining traditional techniques with bold, innovative designs.
+
+(A) derivative
+
+(B) eclectic
+
+(C) conventional
+
+(D) austere
+
+(E) groundbreaking
+
+Sentence Equivalence:
+The politician’s speech was so __________ that even his staunchest supporters found it difficult to follow his argument.
+
+(A) verbose
+
+(B) convoluted
+
+(C) succinct
+
+(D) tedious
+
+(E) rambling
+
+(F) eloquent
+
+Reading Comprehension:
+Passage: "Renewable energy sources like wind and solar have become increasingly cost-competitive with fossil fuels. However, their adoption has been slowed by issues such as intermittency and the lack of robust energy storage solutions."
+Question: Which of the following can be inferred from the passage?
+
+(A) Fossil fuels are cheaper than renewable energy.
+
+(B) Energy storage is a key challenge for renewable energy adoption.
+
+(C) Wind and solar energy are unreliable.
+
+(D) Renewable energy is not yet viable for widespread use.
+
+Quantitative Reasoning
+
+Section 1
+
+Quantitative Comparison:
+Compare Quantity A and Quantity B.
+
+Quantity A: The area of a circle with radius 5.
+
+Quantity B: The area of a square with side length 6.
+
+(A) Quantity A is greater.
+
+(B) Quantity B is greater.
+
+(C) The two quantities are equal.
+
+(D) The relationship cannot be determined.
+
+Multiple Choice:
+If 3x + 2 = 11, what is the value of x?
+
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
+Numeric Entry:
+A car travels 150 miles using 5 gallons of fuel. What is the car’s fuel efficiency in miles per gallon? (Enter your answer as a number.)
+
+Section 2
+
+Data Interpretation:
+A company’s quarterly profits (in millions) are as follows:
+
+Q1: 15
+
+Q2: 20
+
+Q3: 18
+
+Q4: 22
+
+What is the average quarterly profit?
+
+Quantitative Comparison:
+
+Quantity A: 2^(3 + 2)
+
+Quantity B: 10^2
+
+(A) Quantity A is greater.
+
+(B) Quantity B is greater.
+
+(C) The two quantities are equal.
+
+(D) The relationship cannot be determined.
+
+Multiple Choice:
+What is the slope of the line passing through the points (2, 3) and (5, 11)?
+
+(A) 2
+
+(B) 3
+
+(C) 4
+
+(D) 5
+
